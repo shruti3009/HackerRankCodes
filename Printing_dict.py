@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 SELECT_HITS
 Author: Shruti Srivastava
