@@ -1,2 +1,2 @@
 # HackerRankCodes
-This repository holds my python solutions for HackerRank
+This repository holds python solutions for HackerRank
